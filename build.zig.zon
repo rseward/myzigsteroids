@@ -4,8 +4,8 @@
     .fingerprint = 0xd0df7e0afd6ab0f,
     .dependencies = .{
         .vgame = .{
-            .url = "git+https://github.com/rseward/zigvectorgames.git#4169f1df422248c941fa9e87bbc28ec43b352792",
-            .hash = "vgame-0.1.0-6WPbDL_uBABAO88H4B4HgtwIKYiFufEcXQXS6tppnhlL",
+            .url = "git+https://github.com/rseward/zigvectorgames.git#a5c86daa59febf8442d7550f826ee7b4b6c5cbe2",
+            .hash = "vgame-0.1.0-6WPbDH3vBADrO4kb54sNnujdk_Dv-wIEhrKx51fLrzG6",
         },
     },
     .paths = .{""},
